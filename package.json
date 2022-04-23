@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriascholte/reprograma-projeto-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoriascholte/reprograma-projeto-01/issues"
+  },
+  "homepage": "https://github.com/victoriascholte/reprograma-projeto-01#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
