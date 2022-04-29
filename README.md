@@ -6,9 +6,7 @@
 
 O objetivo é criar um sistema onde deverá ser possível gerenciar informações sobre os livros que já lemos e os livros que estão na nossa listinha de desejos.
 
-
-
-> 
+![Alt Text](https://media.giphy.com/media/Nfd1jLVBCR3O0/giphy.gif)
 
 ### `Passo a passo do projeto`
 
@@ -71,3 +69,11 @@ LIVRO
 - paginas: number
 - recomenda: boolean
 - leu: boolean
+
+
+
+![Alt Text](https://media.giphy.com/media/11BDDJSlJZ2uha/giphy.gif)
+
+
+
+Obrigada e boa leitura!
