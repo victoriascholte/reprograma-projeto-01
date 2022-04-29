@@ -38,7 +38,7 @@ const livros = [
     },
     {
       nome: 'Torto Arado',
-      categoria: 'romance',
+      categoria: 'drama',
       paginas: 245,
       recomenda: true,
       leu: true
@@ -68,6 +68,13 @@ const livros = [
       nome: 'Your name',
       categoria: 'mangá',
       paginas: 400,
+      recomenda: true,
+      leu: true
+    },
+    {
+      nome: 'Um defeito de cor',
+      categoria: 'drama',
+      paginas: 947,
       recomenda: true,
       leu: true
     }
