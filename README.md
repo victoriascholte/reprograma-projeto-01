@@ -26,7 +26,7 @@ O objetivo é criar um sistema onde deverá ser possível gerenciar informaçõe
 | `npm`           | Gerenciador de pacotes                      |
 | `readline-sync` | Dependência para receber inputs no terminal |
 
-`Arquitetura`
+### `Arquitetura`
 
 ```
  📁 projeto-de-livros
@@ -50,11 +50,11 @@ O objetivo é criar um sistema onde deverá ser possível gerenciar informaçõe
 - [ ]   **`listarRecomendados`** Deverá listar livros que já foram lidos e que são recomendados
 - [ ]   **`listarLivrosNaoLidos`** Deverá listar livros que ainda não foram lidos
 
-`REGRAS`
+### `Regras`
 
 ```
-- Inicia o algoritmo escolhendo a forma de busca no menu.
-- Caso a pessoa usuária escolha alguma opção inexistente deverá mostrar no console a string 'fim do algoritmo'.
+- Iniciar o algoritmo escolhendo a forma de busca no menu.
+- Caso a pessoa usuária escolha alguma opção inexistente deverá mostrar no console uma mensagem.
 - O comportamento esperado deve ser o pedido da entrada e a impressão das tabelas buscadas no console, conforme requisitos acima.
 ```
 
