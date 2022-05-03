@@ -17,7 +17,7 @@ O objetivo é criar um sistema onde deverá ser possível gerenciar informaçõe
 | Instalar dependências                 | `npm i readline-sync`    |
 | Crie o .gitignore                     | `node_modules`           |
 
-###`Tecnologias`
+### `Tecnologias`
 
 | Ferramenta      | Descrição                                   |
 | --------------- | ------------------------------------------- |
